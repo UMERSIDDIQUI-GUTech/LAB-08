@@ -81,6 +81,6 @@
     font-family: 'Helvetica', sans-serif;
 }
 .product-card:hover .product-info {
-    background-color: rgba(0, 0, 0, 0.2); /* Subtle darken effect on text section on hover */
+    background-color: rgba(0, 0, 0, 0.2); 
     transition: background-color 0.3s ease;
 }

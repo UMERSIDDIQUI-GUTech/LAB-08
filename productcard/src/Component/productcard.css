@@ -50,8 +50,6 @@
     font-family: 'Roboto', sans-serif;
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4); 
 }
-
-/* Styling for the Camera Design text */
 .design {
     font-size: 1rem;
     color: lightcyan;
@@ -60,8 +58,6 @@
     align-items: center;
     margin-bottom: 10px;
 }
-
-/* Styling for the Image container */
 .product-image {
     flex: 0 0 250px;
     overflow: hidden;
@@ -72,7 +68,6 @@
     align-items: center;
 }
 
-/* Styling for the Camera Design image */
 .design-image {
     height: 200px;
     width: 200px;
@@ -82,7 +77,6 @@
     margin-left: 20px;
 }
 
-/* Font family for the entire product info */
 .product-info {
     font-family: 'Helvetica', sans-serif;
 }
